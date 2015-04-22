@@ -2,6 +2,8 @@
 
 Demos of things you can do with [viewer.js](https://github.com/box/viewer.js).
 
+Forked from github.com/lakenen.
+
 ## Viewing locally
 
 ```
